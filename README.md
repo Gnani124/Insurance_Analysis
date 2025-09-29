@@ -72,6 +72,9 @@ This analysis empowers insurers to:
 * Enhance profitability by aligning policy design with customer behavior.
 * Make strategic, **data-driven underwriting decisions.
 
-<img width="1209" height="716" alt="Screenshot 2025-09-29 091843" src="https://github.com/user-attachments/assets/32f797cf-ba12-4d90-8c10-4d3b08ecf6e2" />
+
+<img width="1209" height="721" alt="Screenshot 2025-09-29 102011" src="https://github.com/user-attachments/assets/ee11e6f4-2700-4900-8357-af5438bddfe4" />
+
+
 
 
